@@ -4,7 +4,7 @@ $role = 'user'; // Role for user
 ?>
 
 <!DOCTYPE html>
-<html>
+<html>  
 <head>
     <title>User Dashboard</title>
     <!-- CSS styles -->
